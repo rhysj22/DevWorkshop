@@ -1,0 +1,24 @@
+1. The Yelp and VSCode guidelines share very similar guidelines. 
+First, they encourage collaboration amongst a team but emphasize doing it in a respectful and meaningful manner. In addition, 
+they emphasize the importance of short, concise reviews including feedback and push comments. They also have different recommendations
+and concentrate on different aspects of code review. For example, Yelp provdies guidelines for how to review code, certain things to look for,
+and a checklist to ensure that the code is not only up to date, but accurate and well tested. The VSCode guidelines focus more on how to communicate
+with your group members. They emphasize the importance of being respectful in your code review and how to take constructive criticism.
+
+
+2. https://www.quora.com/What-is-an-example-of-a-good-code-review-comment#:~:text=An%20example%20of%20a%20good%20code%20review%20comment%20is%3A,and%20robustness%20of%20the%20program.%22
+This review is beneficial because it provides 
+concise comments on what exactly is being reviewed and 
+examples on how to fix certain aspects. This is a good
+code review because there is no ambiguity and
+the programmer knows exactly what needs to be fixed
+withouth feeling attacked or talked down to.
+
+3. https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0
+This website provides several examples of bad and good code reviews.
+The code review demonstrates a lack of consistency when reviewing code.
+The reviewer found an error in one method, but missed the same error in 
+another method. This is a bad code review because it possesses inconsitency in
+reviewing code.
+
+
