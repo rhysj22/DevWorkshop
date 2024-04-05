@@ -1,2 +1,2 @@
 # DevWorkshop
-Rhys Jones: rhysj22
+Kian Pierce: kianp20, Rhys Jones: rhysj22
