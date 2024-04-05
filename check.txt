@@ -1,1 +1,0 @@
-We finished the package manager task and got 100 on the check after installing forever with npm, but ran out of time with figuring out how to add the screenshot to the branch.
